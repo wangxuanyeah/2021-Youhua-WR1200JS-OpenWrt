@@ -1,3 +1,4 @@
+从fork者那里魔改添加了阿里ddns、zerotier，frp和去广告插件
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
