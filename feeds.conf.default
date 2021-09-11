@@ -10,6 +10,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git helloworld https://github.com/fw876/helloworld
 src-git lienol https://github.com/Lienol/openwrt-package
-src-git opentopd  https://github.com/sirpdboy/luci-theme-opentopd
-src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git
 src-git netgear https://github.com/Aslin-Ameng/luci-theme-netgear.git
